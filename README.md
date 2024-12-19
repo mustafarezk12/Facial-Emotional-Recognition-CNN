@@ -41,4 +41,4 @@ The model achieves an accuracy of 89.76% on the training data and 64.22% on the 
 ## Installation and Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/mustafarezk12/Facial-Emotional-Recognition-CNN.git
