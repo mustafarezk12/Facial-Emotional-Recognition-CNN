@@ -1,6 +1,7 @@
 # Facial-Emotional-Recognition-CNN
-
 ![Facial Emotion Detection ](facialrecognition.gif)
+![facialrecognition  ](https://github.com/user-attachments/assets/7b30d053-2aba-4561-aab7-e4fd6c7fc00f)
+
 
 
 ## Overview
