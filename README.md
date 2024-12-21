@@ -1,6 +1,7 @@
 # Facial-Emotional-Recognition-CNN
-Facial Emotion Detection 
-# Expression Recognition with CNN
+
+![Facial Emotion Detection ](facial recognition.gif)
+
 
 ## Overview
 This project aims to classify facial expressions using a Convolutional Neural Network (CNN). The model is trained on a dataset of facial images and can predict emotions such as happiness, sadness, anger, etc.
