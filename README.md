@@ -1,6 +1,6 @@
 # Facial-Emotional-Recognition-CNN
 
-![Facial Emotion Detection ](facial recognition.gif)
+![Facial Emotion Detection ](facialrecognition.gif)
 
 
 ## Overview
